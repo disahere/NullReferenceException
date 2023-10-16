@@ -72,8 +72,8 @@
             </a></div>
 <br />
 
-Man, this party stinks. I hate these people.
+### <div align="center"> Man, this party stinks. I hate these people. </div>  
 
-![counter](https://moe-counter.glitch.me/get/@es3n1n?theme=asoul)
+### <div align="center"> ![counter](https://moe-counter.glitch.me/get/@es3n1n?theme=asoul) </div>  
 
 ----
