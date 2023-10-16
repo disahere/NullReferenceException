@@ -1,5 +1,7 @@
 ----
-[![NullReferenceException](https://github.com/disahere/disahere/blob/main/NullReferenceExceptionHeader.jpg)](https://www.youtube.com/channel/UC5zOe2CLC3xq1aN3D3v89DA)
+Man, this party stinks. I hate these people.
+
+![counter](https://moe-counter.glitch.me/get/@es3n1n?theme=asoul)
 
 ## About ME  
 
