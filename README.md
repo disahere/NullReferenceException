@@ -3,7 +3,7 @@
 
 ## About ME  
 
-### <div align="center">Hi, I'm Nikita, 19 year old programmer from Khmelnitsky, a motivated and talented Unity developer👨‍💻 specializing in game development and software engineering for AR/VR projects.  🚀</div>  
+### <div align="center">Hi, I'm Nikita, 20 year old programmer from Khmelnitsky, a motivated and talented Unity developer👨‍💻 specializing in game development and software engineering for AR/VR projects.  🚀</div>  
   
 
 - 🔭 My Own Game [The Eternal Darkness](https://github.com/disahere/The-Eternal-Darkness).  
