@@ -15,7 +15,7 @@ Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a
 
 <br/>  
 
-## [Technology Stack]()
+## 🧠 [Technology Stack]()
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=unity" alt="Unity" />
@@ -45,7 +45,7 @@ Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a
   
 <br/>  
 
-## [Github Stats]() 
+## 📈 [Github Stats]() 
 
 <br/>     
 
