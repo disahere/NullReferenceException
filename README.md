@@ -16,7 +16,8 @@
   
 
 ![](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)  
-  
+
+[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@kep452b)
 
 <br/>  
 
