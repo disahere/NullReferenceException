@@ -26,7 +26,7 @@ Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a
   <img src="https://img.shields.io/badge/Blender-090909?style=for-the-badge&logo=blender&logoColor=F4CA16" alt="Blender" />
 </div>
 
-## 💬 Connect with me
+## 💬 [Connect with me]()
 
 <div align="center">
   <a href="https://github.com/disahere" target="_blank">
@@ -45,7 +45,7 @@ Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a
   
 <br/>  
 
-## Github Stats 
+## [Github Stats]() 
 
 <br/>     
 
