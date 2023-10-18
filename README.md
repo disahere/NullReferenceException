@@ -67,7 +67,7 @@ Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a
             </a></div>
 <br />
 
-### <div align="center"> Man, this party stinks. I hate these people. </div>  
+### <div align="center"> [Man, this party stinks. I hate these people.]() </div>  
 
 ### <div align="center"> ![counter](https://moe-counter.glitch.me/get/@es3n1n?theme=asoul) </div>  
 
