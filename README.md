@@ -1,24 +1,19 @@
-----
-
-## About ME  
-
-### <div align="center">Hi, I'm Nikita, 20 year old programmer from Khmelnitsky, a motivated and talented Unity developer👨‍💻 specializing in game development and software engineering for AR/VR projects.  🚀</div>  
+# [NullReferenceException](https://github.com/tickcount/tickcount/blob/91e77b46001c12c5761335eef424e23e476e7b6f/README.md?plain=1#L1)
+Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a motivated and talented Unity developer👨‍💻 specializing in game development, game hacking and software engineering for AR/VR projects.  🚀</div>  
   
 
-### <div align="center">  🔭 My Own Game [The Eternal Darkness](https://github.com/disahere/The-Eternal-Darkness).  </div>  
+- 🔭 My Own Game [The Eternal Darkness](https://github.com/disahere/The-Eternal-Darkness).  
   
 
-### <div align="center">  ❓ Ask me about anything related to game and software development  </div> 
+- ❓ Ask me about anything related to game and software development.
+  
+- ⚡I am driven to improve my skills and embrace new challenges. With a strong work ethic and passion for game development, I am dedicated to continual growth in the industry. If you're looking for a valuable team member who is ready to contribute and create immersive experiences, I believe I can be a valuable addition. Let's collaborate and bring innovative ideas to life. 
   
 
-### <div align="center">  ⚡I am driven to improve my skills and embrace new challenges. With a strong work ethic and passion for game development, I am dedicated to continual growth in the industry. If you're looking for a valuable team member who is ready to contribute and create immersive experiences, I believe I can be a valuable addition. Let's collaborate and bring innovative ideas to life.  </div>  
-  
 
-### <div align="center"> ![](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)  </div>
+[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@kep452b)
 
-### <div align="center"> [![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@kep452b) </div>
-
-### <div align="center"> [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@kep452b) </div>
+[![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@kep452b)
 
 <br/>  
 
