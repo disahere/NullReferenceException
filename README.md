@@ -9,7 +9,7 @@ Welcome to my profile.I'm Nikita, 20 year old programmer from Khmelnitsky(ua), a
   
 - ⚡I am driven to improve my skills and embrace new challenges. With a strong work ethic and passion for game development, I am dedicated to continual growth in the industry. If you're looking for a valuable team member who is ready to contribute and create immersive experiences, I believe I can be a valuable addition. Let's collaborate and bring innovative ideas to life. 
 
-[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d/project/7cc09a32-1e29-4924-aeab-cc92e3f2513b.svg)](https://wakatime.com/@kep452b)
+[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d.svg)](https://wakatime.com/@kep452b)
 
 [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@kep452b)
 
